@@ -1,0 +1,11 @@
+node_modules
+bower_lib
+build
+.bowerrc
+.tmp
+.sass-cache
+.DS_Store
+.VolumeIcon.icns
+.fseventsd
+*.swp
+.config.sh
